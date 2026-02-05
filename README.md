@@ -1,2 +1,2 @@
 # Algamest
-A mathematical explanation of nature.
+A mathematical explanation of nature!
